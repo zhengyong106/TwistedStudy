@@ -1,0 +1,232 @@
+machine                 n 机器
+
+mechanism               n 机制
+
+reserve                 n 储备，保留
+
+iteration               n 迭代
+
+develop				    v 开发
+developer			    n 开发者
+development			    n 发展
+
+guide				    v 指引 n 向导
+
+introduction		    n 引言
+introduce			    v 介绍
+
+summary				    n 摘要
+summer				    n 夏天
+
+mention				    v 提到
+
+execute				    v 执行
+
+platform			    n 平台
+
+should				    应该
+
+explain				    v 解析
+
+protocol			    n 协议
+
+persistent			    adj 持续的，持久的
+
+multiple			    adj 多重的
+
+allow				    v 允许
+
+transport			    v 传输
+
+receive				    v 接收
+
+reactor				    n 反应器
+
+common                  adj 普通的
+
+popular				    adj 流行的，大众化的
+
+overview                n 回顾
+
+architecture			n 体系结构，建筑学
+architect				n 建筑师
+texture                 n 质地，纹理
+
+interactive             adj 交互的
+interact				v 互动
+
+
+Scripy components
+* Scrapy Engine
+* Scheduler
+* Downloader
+* Spiders
+* Item Pipeline
+* Downloader middlewares
+* Spider middlewares
+
+
+following               adj 随后的
+follow                  v 跟随
+
+diagram				    n 示意图, v 图解
+
+finish                  v 完成
+
+non-blocking			adj 非阻塞的
+asynchronous			adj 异步的 asyn chro nous
+
+feed                    v 为...提供
+
+extract                 v 提取
+
+storage                 n 存储
+
+cache                   n 缓存
+
+frontend                n 前端
+backend                 n 后端
+
+policy                  n 政策
+
+additional              adj  附加的，额外的
+addition                n 附加
+
+add						v 加
+subtract				v 减
+plus					prep 加(表运算)
+minus					prep 减(表运算)
+increase				v 增长
+decrease				v 降低
+
+typical                 adj 典型的
+instead                 adv 反而
+
+meant                   v 意味着
+
+closer                  adj 靠近的，关闭者
+
+decision                n 决定
+decide					v 决定
+
+sign					n 标记
+assign					v 分派
+assignment              n 分派
+
+signal					n 信号
+
+design                  v 设计 n 设计
+
+track                   n 踪迹 v 追踪
+
+browser                 n 浏览器
+
+previous                adj 先前的
+subsequent              adj 随后的
+
+continue				v 持续
+continued               adj 持续的
+
+duplicate               v 复制（双份）
+
+expiration              n 到期
+expire                  v 到期
+
+structure               n 结构
+
+scheme                  n 方案
+theme					n 主题
+
+priority                n 优先，优先权 pri ority
+
+practice				n 实践，v 实践
+
+powerful                abj 强大的
+
+flexibility             n 柔韧性
+flexible                abj 柔韧的
+flex                    v 弯曲（关节）
+
+layer                   n 层，v 分层
+
+actually                adv 实际上
+
+terminate               v 终止，结束
+
+happen                  v 发生
+
+since                   prep 自从
+
+necessary               adj 必要的
+
+above                   adj 上述的
+
+entire                  adj 全部的、完全的
+
+otherwise               否则
+
+notice                  v 注意，n 注意
+
+discuss                 v 讨论
+
+deliver                 v 交付
+
+contemplate             v 沉思
+
+scatter                 v 分散
+gather                  v 聚集
+
+plan                    n 计划，v 计划
+
+correct                 adj 正确的
+
+discover                v 发现
+discovery               n 发现
+
+pretend                 v 假装，扮演
+
+cease                   v 停止
+
+expect                  v 期待
+
+future                  adj 未来的
+
+release                 v 发布
+
+obtain                  v 获得，得到
+
+represent               v 体现
+
+otherwise               conj 否则
+
+forever                 adv 永远地， n 永恒
+
+stuck                   v 卡住
+
+infinite                adj 无限的
+
+fact                    n 事实
+
+special                 adj 特殊的
+specific                adj 具体的，明确的
+
+beautiful               adj 漂亮的
+pretty                  adj 漂亮的
+
+conclusion              n 结论
+
+consume                 v 消耗
+
+worth                   adj 值得的
+
+elaborate               v 详细制定
+
+implicit                abj 隐含的
+
+module                  n 模块
+
+depend                  v 依赖
+
+reason                  n 原因
+
+general                 abj 一般的
